@@ -1,0 +1,62 @@
+Overview>
+
+Book on DS
+https://github.com/amilajack/reading/blob/master/JavaScript/Data%20Structures%20and%20Algorithms%20with%20JavaScript.pdf
+
+Visual DS for students
+
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+https://visualgo.net/en
+
+
+
+Class 1: Introduction to the Data structure ( Data structure concept. Data type concept. Structure of the data classification)
+
+- Introduction to different IDE
+- Set up IDE on the local machine
+- Run Several Basic Programs
+- Q/A
+
+Class 2: Introduction to the Data Structure ( Types of DS ? Importance of data structures in Programming? Basic Operations on DATA structure? Visualisation of Data Structures). Introduction to the linear data structure.  Array in programming.
+
+Non-Primitive  ( Linear data structure )
+
+Class 2.1 - Array program (code and debug),
+
+Class 3 (A) - Stack introduction, Stack PUSH and Stack POP operation ( algorithms and code), 
+
+Class 3 (B)- Queue introduction and Queue operations. ( Stack and Queue real-life examples )
+
+Class 4: Introduction to LinkedList, Type of LinkedList.  ( Stack, Queue and LinkedList examples )
+
+Non-Primitive ( Non-linear data structure )
+
+Class 5: What are Trees? Implement a Binary search tree
+
+Class 6: What are the graphs? Types in graphs and Vertices and Edges.
+
+Class 7: Hashing and examples
+
+Big-O complexities 
+
+Class 8: Big-O complexities and how they are used in Computer Science( programming
+
+Class 9: Choosing the Right Data Structure to solve problems
+
+Programming
+
+Class 10: Programming examples
+
+Class 11: Programming examples
+
+Class 12: Programming examples
+
+Class 13: Programming examples
+
+Class 14: Programming examples
+
+Class 15: Programming examples
+
+Class 16: Programming examples, 
+
+Class 17: Consultation for assignments feedback and exam
